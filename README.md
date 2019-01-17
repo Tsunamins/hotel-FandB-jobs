@@ -1,4 +1,5 @@
 Readme file
+more on the readme file
 # Hotel::FandB::Jobs
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/hotel/FandB/jobs`. To experiment with that code, run `bin/console` for an interactive prompt.
